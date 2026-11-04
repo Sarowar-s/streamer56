@@ -1,7 +1,7 @@
 
-## Screenshots
+## How it works
 
-<img src="Screenshot7.png" width="800px;" alt="Demo 1"/><br />
+<img src="Screenshot7.png" width="800px;" alt="Demo 1"/><br /><br /><br />
 <table>
   <tr>
     <td align="center">
@@ -34,3 +34,7 @@
   </tr>
 
 </table>
+<br /><br />
+### It can Stream Desktop sound to android phone. Currently it works on linux and android only.
+
+**Download the applications [Here](https://github.com/Sarowar-s/XenUI/releases/tag/v0.9.0-alfa)**
