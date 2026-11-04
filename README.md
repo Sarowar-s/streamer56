@@ -37,4 +37,4 @@
 <br /><br />
 ### It can Stream Desktop sound to android phone. Currently it works on linux and android only.
 
-**Download the applications [Here](https://github.com/Sarowar-s/XenUI/releases/tag/v0.9.0-alfa)**
+**Download the applications [Here](https://github.com/Sarowar-s/streamer56/releases/tag/Audio_Streamer)**
