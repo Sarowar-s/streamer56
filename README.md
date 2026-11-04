@@ -1,6 +1,7 @@
 
 ## Screenshots
 
+<img src="Screenshot7.jpeg" width="800px;" alt="Demo 1"/><br />
 <table>
   <tr>
     <td align="center">
