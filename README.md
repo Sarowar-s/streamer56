@@ -28,7 +28,7 @@
     </td>
     <td align="center">
       <img src="Screenshot6.jpeg" width="200px;" alt="Demo 6"/><br />
-      <br>Stream starts</br>
+      <b>Stream starts</b>
     </td>
   </tr>
 
